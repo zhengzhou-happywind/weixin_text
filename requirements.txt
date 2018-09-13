@@ -3,3 +3,4 @@ django-cors-headers == 2.4.0
 djangorestframework == 3.8.2
 mongoengine==0.15.0
 werobot==1.6.0
+uwsgi==2.0.17.1
