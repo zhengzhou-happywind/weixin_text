@@ -14,3 +14,8 @@ def hello(message):
 @robot.key_click('one')
 def click(message):
     return '点击了……'
+
+
+@robot.key_click('two')
+def two(message):
+    return '第二个'
