@@ -1,0 +1,14 @@
+# Ignore project IDE files
+.idea
+/venv/
+/static/
+node_modules
+__pycache__
+
+# Ignore local logs
+*.log
+
+# Ignore django default db
+db.sqlite3
+
+config.py
